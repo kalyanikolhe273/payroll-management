@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27 Nov, 2022, 12:44:49 AM
+    Author     : Kalyani
+*/
+body
+{
+    background-image: url(gradient.jpg);
+   
+   
+   background-size:100%;
+   
+  
+}
+h1{
+    text-align: center;
+    
+    
+    
+  color: white;
+  font-family: Times New Roman;
+  font-size: 35px;
+ color: #790252;
+  
+  
+}
+h2{
+    text-align: center;
+    color:rgb(60,60,60);
+    
+}
+.uname{
+    text-style:arial;
+    font-size: 20px;
+}
